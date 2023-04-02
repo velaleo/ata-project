@@ -5,7 +5,7 @@ import java.util.Scanner;
 /**
  * Menu class is responsible for greeting the user, showing a menu
  * to the user for interaction with the application.
- * The class maintains a String[] array of menu options, which it
+ * The class maintains a  String[] array of menu options, which it
  * uses for printing the menu to standard out.
  * The class is also responsible for responding to user interaction
  * with respect to its menu.
